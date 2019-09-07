@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">App_SharedPreferencesAgenda</string>
+    <string name="et_nombre">Nombre del contacto</string>
+    <string name="ml_datos">Datos del contacto</string>
+    <string name="btn_guardar">Guardar</string>
+    <string name="btn_buscar">Buscar</string>
+</resources>
